@@ -45,6 +45,9 @@ Utilizando un potenciomentro
 
 ![image](https://user-images.githubusercontent.com/105687375/177711114-6538ae17-8f1a-425e-a756-91a9fc70f824.png)
 
+![image](https://user-images.githubusercontent.com/105687213/177772118-73fba6ce-5197-40ad-bfaa-bbecfc18b291.png)
+
+
 
 4.MATERIALES Y EQUIPOS REQUERIDOS
 
