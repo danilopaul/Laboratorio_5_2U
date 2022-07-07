@@ -46,6 +46,14 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 
 5.RESOLUCIÓN
 
+- Tabla 5.1. Valores del Circuito Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/105684550/177697622-4b8a73ed-760a-48df-8c73-f770a2a35dc0.png)
+
+- Tabla 5.2. Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/105684550/177697676-5a868844-8ada-4bad-8947-84ff02eabe6f.png)
+
 6.VIDEO
 
 
@@ -53,7 +61,11 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 
 7.CONCLUSIONES:
 
+- En definitiva se logro apreciar que tras aplicar el teorema de Thevenin la resitencia resultante, también denominada Resistencia Thevenin, se obtendría posteriormente de reemplazar las fuentes de voltaje por circuitos cerrados, las fuentes de corriente por circuitos abiertos y finalmente la resistencia que se desea calcular se la cortocircuitaria para así obtener un nuevo circuito con solo resistencias de las cuales se obtendria la Resistencia Total.
 
+- También se pudo observar que posteriormente de aplicar el teorema de Thevenin el voltaje resultante, también denominada Voltaje Thevenin, se obtendría tras cortocircuitar la resistencia que se desea calcular, y por medio de los métodos aprendidos (mallas, ramas y nodos) se resolvería el circuiton para obtener el voltaje.
+
+- Se ha podido deducir que el Teorema de Thevenin es una herramiento de gran ayuda que permite simplificar o reducir un circuito amplio a uno más sencillo, siendo específicos nos quedaria como resultado un circuito en serie.
 
 8.BIBLIOGRAFÍA
 
