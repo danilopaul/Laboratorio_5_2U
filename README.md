@@ -133,8 +133,7 @@ VR5=3.325 V
 
 6.VIDEO
 
-
-
+https://youtu.be/JeJOKdRS7zw
 
 7.CONCLUSIONES:
 
