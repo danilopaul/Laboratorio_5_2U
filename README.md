@@ -28,7 +28,6 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 
 3.REQUISITOS PREVIOS
 
-![image](https://user-images.githubusercontent.com/105687375/177696818-4728f749-47a0-460f-a40d-db415eb42854.png)
 
 ![image](https://user-images.githubusercontent.com/105687375/177696876-aa87a40b-00f2-47b7-b6c2-952bb05d6cf9.png)
 
@@ -45,6 +44,84 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 ![image](https://user-images.githubusercontent.com/105687213/177677519-8239d745-b2f8-425d-82f5-569636ba5072.png)
 
 5.RESOLUCIÓN
+
+Hacemos que R5 este en cortocircuito
+
+![image](https://user-images.githubusercontent.com/105687213/177700606-86a7cbb9-a179-4c6c-ac4f-bfb39d796353.png)
+
+
+Calculamos la RTH
+
+R1||R2=(560*4700)/(560+4700)= 500.38 Ω
+
+RT=(1/(1/500.38+1/330))+100 
+
+RT=198.86+100 
+
+RTH=298.86 Ω
+
+
+
+Calculamos las corrientes por metodo de lazo
+
+![image](https://user-images.githubusercontent.com/105687213/177700845-3a436d1a-4cf3-4dd6-83e5-c0f930257bea.png)
+
+
+Lazo A
+
+560IA+4700(IA-IB)=10 
+
+560IA+4700IA-4700IB=10 
+
+IA=(4700IB+10)/5260      (1)
+
+Lazo B
+
+330IB+4700(IB-IA)=2 
+
+330IB+4700IB-4700IA=2    (2)
+
+Remplazamos IA en la ecuación 2
+
+5030IB-4700((4700IB+10)/5260  )=2 
+
+830.39IB=10.94 
+
+IB=0.0131 A 
+
+IB=13.1 mA 
+
+Remplazamos la IB en la ecuación (1)
+
+IA=(4700(13.1)+10)/5260 
+
+IA=11.70 mA 
+
+Calculamos el VR3 mediante la ley de ohm
+
+![image](https://user-images.githubusercontent.com/105687213/177701015-f9c3093e-1959-46a6-9836-8825ee175cd0.png)
+
+VR3=R3*IB 
+
+VR3=330*0.0131 
+
+VTH=4.323 V
+
+![image](https://user-images.githubusercontent.com/105687213/177701237-cca0dd1a-8390-4b45-88fc-c9c7cb715f62.png)
+
+Calculamos VR5 y I5
+
+![image](https://user-images.githubusercontent.com/105687213/177701373-45ce677b-2a61-47ab-9935-d66b46115574.png)
+
+I=VTH/RTH
+
+I=3.325 mA
+
+VR5=(100/1298.86)(4.32)
+
+VR5=3.325 V
+
+
 
 - Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
