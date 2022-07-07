@@ -65,7 +65,7 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 
 - También se pudo observar que posteriormente de aplicar el teorema de Thevenin el voltaje resultante, también denominada Voltaje Thevenin, se obtendría tras cortocircuitar la resistencia que se desea calcular, y por medio de los métodos aprendidos (mallas, ramas y nodos) se resolvería el circuiton para obtener el voltaje.
 
-- Se ha podido deducir que el Teorema de Thevenin es una herramiento de gran ayuda que permite simplificar o reducir un circuito amplio a uno más sencillo, siendo específicos nos quedaria como resultado un circuito en serie.
+- Se ha podido deducir que el Teorema de Thevenin es una herramiento de gran ayuda que permite simplificar o reducir un circuito amplio a uno más sencillo, compuesto por un Vontaje de Thevenin y una Resistencia de Thevenin, siendo específicos quedaría como resultado un circuito en serie.
 
 8.BIBLIOGRAFÍA
 
