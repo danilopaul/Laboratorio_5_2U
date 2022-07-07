@@ -39,6 +39,13 @@ Determinar el concepto del teorema de Thevenin, por medio del planteamiento de s
 
 ![image](https://user-images.githubusercontent.com/105687375/177697014-d14edd79-b935-4fe2-87dc-33706094db51.png)
 
+Utilizando un potenciomentro 
+
+![image](https://user-images.githubusercontent.com/105687375/177711070-00826ed2-448e-49d5-9e08-0dc82aa8a71a.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177711114-6538ae17-8f1a-425e-a756-91a9fc70f824.png)
+
+
 4.MATERIALES Y EQUIPOS REQUERIDOS
 
 ![image](https://user-images.githubusercontent.com/105687213/177677519-8239d745-b2f8-425d-82f5-569636ba5072.png)
