@@ -1,7 +1,7 @@
 # Laboratorio_5_2U
 
-                                                   Universidad de las Fuerzas Armadas - ESPE
-                                                     Fundamentos de Circuitos Electróinicos
+                                    Universidad de las Fuerzas Armadas - ESPE
+                                     Fundamentos de Circuitos Electróinicos
         Integrantes:
         - Cholca Paul
         - Sandal Andrés
